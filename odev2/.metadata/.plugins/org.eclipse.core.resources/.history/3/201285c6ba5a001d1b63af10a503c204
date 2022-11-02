@@ -1,0 +1,8 @@
+package kodlama.io.Kodlama.io.Devs.webApi.controllers;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController // erişim noktası olduğunu bu anotasyon ile belirtiriz.
+public class ProgrammingLanguagesControllers {
+
+}
